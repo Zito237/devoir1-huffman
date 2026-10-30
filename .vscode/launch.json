@@ -1,0 +1,36 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Tests Huffman",
+      "request": "launch",
+      "mainClass": "huffman.HuffmanTests",
+      "vmArgs": "-Dfile.encoding=UTF-8 -Dstdout.encoding=UTF-8"
+    },
+    {
+      "type": "java",
+      "name": "Compresser exemples/texte.txt",
+      "request": "launch",
+      "mainClass": "huffman.Main",
+      "args": "compress exemples/texte.txt exemples/texte.txt.huf",
+      "vmArgs": "-Dfile.encoding=UTF-8 -Dstdout.encoding=UTF-8"
+    },
+    {
+      "type": "java",
+      "name": "Décompresser exemples/texte.txt.huf",
+      "request": "launch",
+      "mainClass": "huffman.Main",
+      "args": "decompress exemples/texte.txt.huf exemples/texte_restaure.txt",
+      "vmArgs": "-Dfile.encoding=UTF-8 -Dstdout.encoding=UTF-8"
+    },
+    {
+      "type": "java",
+      "name": "Statistiques exemples/texte.txt",
+      "request": "launch",
+      "mainClass": "huffman.Main",
+      "args": "stats exemples/texte.txt",
+      "vmArgs": "-Dfile.encoding=UTF-8 -Dstdout.encoding=UTF-8"
+    }
+  ]
+}

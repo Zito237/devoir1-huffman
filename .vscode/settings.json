@@ -1,0 +1,12 @@
+{
+  "java.project.sourcePaths": ["src", "test"],
+  "java.project.outputPath": "bin",
+  "java.project.referencedLibraries": [],
+  "java.configuration.runtimes": [
+    { "name": "JavaSE-17", "path": "C:\\Program Files\\Java\\jdk-17.0.5", "default": true }
+  ],
+  "terminal.integrated.env.windows": {
+    "PATH": "C:\\Program Files\\Java\\jdk-17.0.5\\bin;${env:PATH}"
+  },
+  "files.encoding": "utf8"
+}

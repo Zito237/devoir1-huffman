@@ -1,0 +1,120 @@
+Le codage de Huffman est une méthode de compression de données sans perte proposée par David Albert Huffman en 1952.
+Le principe est d'attribuer aux symboles les plus fréquents les codes les plus courts, et aux symboles les plus rares les codes les plus longs.
+Le code obtenu est un code préfixe : aucun mot de code n'est le début d'un autre, ce qui permet un décodage sans séparateur.
+Le codage de Huffman est une méthode de compression de données sans perte proposée par David Albert Huffman en 1952.
+Le principe est d'attribuer aux symboles les plus fréquents les codes les plus courts, et aux symboles les plus rares les codes les plus longs.
+Le code obtenu est un code préfixe : aucun mot de code n'est le début d'un autre, ce qui permet un décodage sans séparateur.
+Le codage de Huffman est une méthode de compression de données sans perte proposée par David Albert Huffman en 1952.
+Le principe est d'attribuer aux symboles les plus fréquents les codes les plus courts, et aux symboles les plus rares les codes les plus longs.
+Le code obtenu est un code préfixe : aucun mot de code n'est le début d'un autre, ce qui permet un décodage sans séparateur.
+Le codage de Huffman est une méthode de compression de données sans perte proposée par David Albert Huffman en 1952.
+Le principe est d'attribuer aux symboles les plus fréquents les codes les plus courts, et aux symboles les plus rares les codes les plus longs.
+Le code obtenu est un code préfixe : aucun mot de code n'est le début d'un autre, ce qui permet un décodage sans séparateur.
+Le codage de Huffman est une méthode de compression de données sans perte proposée par David Albert Huffman en 1952.
+Le principe est d'attribuer aux symboles les plus fréquents les codes les plus courts, et aux symboles les plus rares les codes les plus longs.
+Le code obtenu est un code préfixe : aucun mot de code n'est le début d'un autre, ce qui permet un décodage sans séparateur.
+Le codage de Huffman est une méthode de compression de données sans perte proposée par David Albert Huffman en 1952.
+Le principe est d'attribuer aux symboles les plus fréquents les codes les plus courts, et aux symboles les plus rares les codes les plus longs.
+Le code obtenu est un code préfixe : aucun mot de code n'est le début d'un autre, ce qui permet un décodage sans séparateur.
+Le codage de Huffman est une méthode de compression de données sans perte proposée par David Albert Huffman en 1952.
+Le principe est d'attribuer aux symboles les plus fréquents les codes les plus courts, et aux symboles les plus rares les codes les plus longs.
+Le code obtenu est un code préfixe : aucun mot de code n'est le début d'un autre, ce qui permet un décodage sans séparateur.
+Le codage de Huffman est une méthode de compression de données sans perte proposée par David Albert Huffman en 1952.
+Le principe est d'attribuer aux symboles les plus fréquents les codes les plus courts, et aux symboles les plus rares les codes les plus longs.
+Le code obtenu est un code préfixe : aucun mot de code n'est le début d'un autre, ce qui permet un décodage sans séparateur.
+Le codage de Huffman est une méthode de compression de données sans perte proposée par David Albert Huffman en 1952.
+Le principe est d'attribuer aux symboles les plus fréquents les codes les plus courts, et aux symboles les plus rares les codes les plus longs.
+Le code obtenu est un code préfixe : aucun mot de code n'est le début d'un autre, ce qui permet un décodage sans séparateur.
+Le codage de Huffman est une méthode de compression de données sans perte proposée par David Albert Huffman en 1952.
+Le principe est d'attribuer aux symboles les plus fréquents les codes les plus courts, et aux symboles les plus rares les codes les plus longs.
+Le code obtenu est un code préfixe : aucun mot de code n'est le début d'un autre, ce qui permet un décodage sans séparateur.
+Le codage de Huffman est une méthode de compression de données sans perte proposée par David Albert Huffman en 1952.
+Le principe est d'attribuer aux symboles les plus fréquents les codes les plus courts, et aux symboles les plus rares les codes les plus longs.
+Le code obtenu est un code préfixe : aucun mot de code n'est le début d'un autre, ce qui permet un décodage sans séparateur.
+Le codage de Huffman est une méthode de compression de données sans perte proposée par David Albert Huffman en 1952.
+Le principe est d'attribuer aux symboles les plus fréquents les codes les plus courts, et aux symboles les plus rares les codes les plus longs.
+Le code obtenu est un code préfixe : aucun mot de code n'est le début d'un autre, ce qui permet un décodage sans séparateur.
+Le codage de Huffman est une méthode de compression de données sans perte proposée par David Albert Huffman en 1952.
+Le principe est d'attribuer aux symboles les plus fréquents les codes les plus courts, et aux symboles les plus rares les codes les plus longs.
+Le code obtenu est un code préfixe : aucun mot de code n'est le début d'un autre, ce qui permet un décodage sans séparateur.
+Le codage de Huffman est une méthode de compression de données sans perte proposée par David Albert Huffman en 1952.
+Le principe est d'attribuer aux symboles les plus fréquents les codes les plus courts, et aux symboles les plus rares les codes les plus longs.
+Le code obtenu est un code préfixe : aucun mot de code n'est le début d'un autre, ce qui permet un décodage sans séparateur.
+Le codage de Huffman est une méthode de compression de données sans perte proposée par David Albert Huffman en 1952.
+Le principe est d'attribuer aux symboles les plus fréquents les codes les plus courts, et aux symboles les plus rares les codes les plus longs.
+Le code obtenu est un code préfixe : aucun mot de code n'est le début d'un autre, ce qui permet un décodage sans séparateur.
+Le codage de Huffman est une méthode de compression de données sans perte proposée par David Albert Huffman en 1952.
+Le principe est d'attribuer aux symboles les plus fréquents les codes les plus courts, et aux symboles les plus rares les codes les plus longs.
+Le code obtenu est un code préfixe : aucun mot de code n'est le début d'un autre, ce qui permet un décodage sans séparateur.
+Le codage de Huffman est une méthode de compression de données sans perte proposée par David Albert Huffman en 1952.
+Le principe est d'attribuer aux symboles les plus fréquents les codes les plus courts, et aux symboles les plus rares les codes les plus longs.
+Le code obtenu est un code préfixe : aucun mot de code n'est le début d'un autre, ce qui permet un décodage sans séparateur.
+Le codage de Huffman est une méthode de compression de données sans perte proposée par David Albert Huffman en 1952.
+Le principe est d'attribuer aux symboles les plus fréquents les codes les plus courts, et aux symboles les plus rares les codes les plus longs.
+Le code obtenu est un code préfixe : aucun mot de code n'est le début d'un autre, ce qui permet un décodage sans séparateur.
+Le codage de Huffman est une méthode de compression de données sans perte proposée par David Albert Huffman en 1952.
+Le principe est d'attribuer aux symboles les plus fréquents les codes les plus courts, et aux symboles les plus rares les codes les plus longs.
+Le code obtenu est un code préfixe : aucun mot de code n'est le début d'un autre, ce qui permet un décodage sans séparateur.
+Le codage de Huffman est une méthode de compression de données sans perte proposée par David Albert Huffman en 1952.
+Le principe est d'attribuer aux symboles les plus fréquents les codes les plus courts, et aux symboles les plus rares les codes les plus longs.
+Le code obtenu est un code préfixe : aucun mot de code n'est le début d'un autre, ce qui permet un décodage sans séparateur.
+Le codage de Huffman est une méthode de compression de données sans perte proposée par David Albert Huffman en 1952.
+Le principe est d'attribuer aux symboles les plus fréquents les codes les plus courts, et aux symboles les plus rares les codes les plus longs.
+Le code obtenu est un code préfixe : aucun mot de code n'est le début d'un autre, ce qui permet un décodage sans séparateur.
+Le codage de Huffman est une méthode de compression de données sans perte proposée par David Albert Huffman en 1952.
+Le principe est d'attribuer aux symboles les plus fréquents les codes les plus courts, et aux symboles les plus rares les codes les plus longs.
+Le code obtenu est un code préfixe : aucun mot de code n'est le début d'un autre, ce qui permet un décodage sans séparateur.
+Le codage de Huffman est une méthode de compression de données sans perte proposée par David Albert Huffman en 1952.
+Le principe est d'attribuer aux symboles les plus fréquents les codes les plus courts, et aux symboles les plus rares les codes les plus longs.
+Le code obtenu est un code préfixe : aucun mot de code n'est le début d'un autre, ce qui permet un décodage sans séparateur.
+Le codage de Huffman est une méthode de compression de données sans perte proposée par David Albert Huffman en 1952.
+Le principe est d'attribuer aux symboles les plus fréquents les codes les plus courts, et aux symboles les plus rares les codes les plus longs.
+Le code obtenu est un code préfixe : aucun mot de code n'est le début d'un autre, ce qui permet un décodage sans séparateur.
+Le codage de Huffman est une méthode de compression de données sans perte proposée par David Albert Huffman en 1952.
+Le principe est d'attribuer aux symboles les plus fréquents les codes les plus courts, et aux symboles les plus rares les codes les plus longs.
+Le code obtenu est un code préfixe : aucun mot de code n'est le début d'un autre, ce qui permet un décodage sans séparateur.
+Le codage de Huffman est une méthode de compression de données sans perte proposée par David Albert Huffman en 1952.
+Le principe est d'attribuer aux symboles les plus fréquents les codes les plus courts, et aux symboles les plus rares les codes les plus longs.
+Le code obtenu est un code préfixe : aucun mot de code n'est le début d'un autre, ce qui permet un décodage sans séparateur.
+Le codage de Huffman est une méthode de compression de données sans perte proposée par David Albert Huffman en 1952.
+Le principe est d'attribuer aux symboles les plus fréquents les codes les plus courts, et aux symboles les plus rares les codes les plus longs.
+Le code obtenu est un code préfixe : aucun mot de code n'est le début d'un autre, ce qui permet un décodage sans séparateur.
+Le codage de Huffman est une méthode de compression de données sans perte proposée par David Albert Huffman en 1952.
+Le principe est d'attribuer aux symboles les plus fréquents les codes les plus courts, et aux symboles les plus rares les codes les plus longs.
+Le code obtenu est un code préfixe : aucun mot de code n'est le début d'un autre, ce qui permet un décodage sans séparateur.
+Le codage de Huffman est une méthode de compression de données sans perte proposée par David Albert Huffman en 1952.
+Le principe est d'attribuer aux symboles les plus fréquents les codes les plus courts, et aux symboles les plus rares les codes les plus longs.
+Le code obtenu est un code préfixe : aucun mot de code n'est le début d'un autre, ce qui permet un décodage sans séparateur.
+Le codage de Huffman est une méthode de compression de données sans perte proposée par David Albert Huffman en 1952.
+Le principe est d'attribuer aux symboles les plus fréquents les codes les plus courts, et aux symboles les plus rares les codes les plus longs.
+Le code obtenu est un code préfixe : aucun mot de code n'est le début d'un autre, ce qui permet un décodage sans séparateur.
+Le codage de Huffman est une méthode de compression de données sans perte proposée par David Albert Huffman en 1952.
+Le principe est d'attribuer aux symboles les plus fréquents les codes les plus courts, et aux symboles les plus rares les codes les plus longs.
+Le code obtenu est un code préfixe : aucun mot de code n'est le début d'un autre, ce qui permet un décodage sans séparateur.
+Le codage de Huffman est une méthode de compression de données sans perte proposée par David Albert Huffman en 1952.
+Le principe est d'attribuer aux symboles les plus fréquents les codes les plus courts, et aux symboles les plus rares les codes les plus longs.
+Le code obtenu est un code préfixe : aucun mot de code n'est le début d'un autre, ce qui permet un décodage sans séparateur.
+Le codage de Huffman est une méthode de compression de données sans perte proposée par David Albert Huffman en 1952.
+Le principe est d'attribuer aux symboles les plus fréquents les codes les plus courts, et aux symboles les plus rares les codes les plus longs.
+Le code obtenu est un code préfixe : aucun mot de code n'est le début d'un autre, ce qui permet un décodage sans séparateur.
+Le codage de Huffman est une méthode de compression de données sans perte proposée par David Albert Huffman en 1952.
+Le principe est d'attribuer aux symboles les plus fréquents les codes les plus courts, et aux symboles les plus rares les codes les plus longs.
+Le code obtenu est un code préfixe : aucun mot de code n'est le début d'un autre, ce qui permet un décodage sans séparateur.
+Le codage de Huffman est une méthode de compression de données sans perte proposée par David Albert Huffman en 1952.
+Le principe est d'attribuer aux symboles les plus fréquents les codes les plus courts, et aux symboles les plus rares les codes les plus longs.
+Le code obtenu est un code préfixe : aucun mot de code n'est le début d'un autre, ce qui permet un décodage sans séparateur.
+Le codage de Huffman est une méthode de compression de données sans perte proposée par David Albert Huffman en 1952.
+Le principe est d'attribuer aux symboles les plus fréquents les codes les plus courts, et aux symboles les plus rares les codes les plus longs.
+Le code obtenu est un code préfixe : aucun mot de code n'est le début d'un autre, ce qui permet un décodage sans séparateur.
+Le codage de Huffman est une méthode de compression de données sans perte proposée par David Albert Huffman en 1952.
+Le principe est d'attribuer aux symboles les plus fréquents les codes les plus courts, et aux symboles les plus rares les codes les plus longs.
+Le code obtenu est un code préfixe : aucun mot de code n'est le début d'un autre, ce qui permet un décodage sans séparateur.
+Le codage de Huffman est une méthode de compression de données sans perte proposée par David Albert Huffman en 1952.
+Le principe est d'attribuer aux symboles les plus fréquents les codes les plus courts, et aux symboles les plus rares les codes les plus longs.
+Le code obtenu est un code préfixe : aucun mot de code n'est le début d'un autre, ce qui permet un décodage sans séparateur.
+Le codage de Huffman est une méthode de compression de données sans perte proposée par David Albert Huffman en 1952.
+Le principe est d'attribuer aux symboles les plus fréquents les codes les plus courts, et aux symboles les plus rares les codes les plus longs.
+Le code obtenu est un code préfixe : aucun mot de code n'est le début d'un autre, ce qui permet un décodage sans séparateur.
+Le codage de Huffman est une méthode de compression de données sans perte proposée par David Albert Huffman en 1952.
+Le principe est d'attribuer aux symboles les plus fréquents les codes les plus courts, et aux symboles les plus rares les codes les plus longs.
+Le code obtenu est un code préfixe : aucun mot de code n'est le début d'un autre, ce qui permet un décodage sans séparateur.
